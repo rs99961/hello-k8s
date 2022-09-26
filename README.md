@@ -1,5 +1,7 @@
 # Spring and Kubernetes - Hello World
 
+
+
 This extremely simple example application demonstrates how to create, deploy, 
 and run a Spring Boot application in a Kubernetes cluster.
 
